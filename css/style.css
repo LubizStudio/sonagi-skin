@@ -261,6 +261,17 @@ button#come:hover {
     width: 100%
 }
 
+#cate, .opennamu_category {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: .9rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 4px 4px 4px 6px;
+    display: inline-block;
+    width: 100%;
+}
+
 li.nav-item {
     margin: 0;
     list-style: none
